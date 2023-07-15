@@ -21,3 +21,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chirran-cr&show_icons=true&locale=en" alt="chirran-cr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chirran-cr&" alt="chirran-cr" /></p>
+<!-- HTML -->
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
